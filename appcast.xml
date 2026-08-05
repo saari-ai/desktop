@@ -4,6 +4,14 @@
     <title>Saari</title>
     <!-- newest first -->
     <item>
+      <title>0.2.3</title>
+      <pubDate>Thu, 06 Aug 2026 00:35:38 +0300</pubDate>
+      <sparkle:version>0.2.3</sparkle:version>
+      <sparkle:shortVersionString>0.2.3</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
+      <enclosure url="https://github.com/saari-ai/desktop/releases/download/v0.2.3/Saari-0.2.3.zip" sparkle:edSignature="cutaI87F0tqotlPTY4eKDvasct0v4nWoDbEsb0vj4FPB8PrVeGiYpDSTnOYZihaQro0AASvNN80l16M8xKPXBw==" length="95288494" type="application/octet-stream" />
+    </item>
+    <item>
       <title>0.2.2</title>
       <pubDate>Thu, 06 Aug 2026 00:25:33 +0300</pubDate>
       <sparkle:version>0.2.2</sparkle:version>
